@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridharan21994&label=Profile%20views&color=0e75b6&style=flat" alt="sridharan21994" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridharan21994" alt="sridharan21994" /></a> </p>
-
 - 💬 Ask me about **javascript, react, frontend**
 
 - 📫 How to reach me **sridharan.219@gmail.com**
@@ -24,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridharan21994&show_icons=true&locale=en" alt="sridharan21994" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridharan21994&" alt="sridharan21994" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridharan21994" alt="sridharan21994" /></a> </p>
