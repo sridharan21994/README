@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sridharan Jayabal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridharan21994&label=Profile%20views&color=0e75b6&style=flat" alt="sridharan21994" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sridharan.219@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15_Y-_bKgdl3AX8aSHcFdUpzNv-NkKhVr/view?usp=sharing](https://drive.google.com/file/d/15_Y-_bKgdl3AX8aSHcFdUpzNv-NkKhVr/view?usp=sharing)
+- 📄 Know about my experiences - [resume](https://drive.google.com/file/d/15_Y-_bKgdl3AX8aSHcFdUpzNv-NkKhVr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,9 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridharan21994&show_icons=true&locale=en&layout=compact" alt="sridharan21994" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridharan21994&show_icons=true&locale=en" alt="sridharan21994" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridharan21994&" alt="sridharan21994" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridharan21994" alt="sridharan21994" /></a> </p>
